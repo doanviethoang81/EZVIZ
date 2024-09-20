@@ -314,10 +314,10 @@
     background-image: url('/assets/img/Camera_Pin_Sac.jpg');
 }
 .backgroup_item-2{
-    background-image: url('/assets/img/Camera_Wi-Fi_Trong_nha.jpg');
+    background-image: url('./assets/img/Camera_Wi-Fi_Trong_nha.jpg');
 }
 .backgroup_item-3{
-    background-image: url('/assets/img/Camera_Wi-Fi_Ngoai_troi.jpg');
+    background-image: url('./assets/img/Camera_Wi-Fi_Ngoai_troi.jpg');
 }
 .backgroup_item-4{
     background-image: url('/assets/img/Phu_kien.jpg');
